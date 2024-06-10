@@ -14,6 +14,10 @@ public class Main {
 
         System.out.println(listaDePessoas.get(0).nome);
 
+        for (Pessoa pessoa : listaDePessoas) {
+            System.out.println(pessoa);
+        }
+
 
     }
 }

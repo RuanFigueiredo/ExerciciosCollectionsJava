@@ -15,6 +15,8 @@ public class Main {
         System.out.println("Tamanho da lista: " +listaDeProdutos.size());
         System.out.println("produto 1: " + listaDeProdutos.get(0).getNome());
 
+        System.out.println(listaDeProdutos.toString());
+
 
 
     }

@@ -6,6 +6,12 @@ public class Produto {
     private double preco;
     private int quantidade;
 
+
+    @Override
+    public String toString() {
+        return  nome;
+    }
+
     public Produto(String nome, double preco, int quantidade) {
         this.nome = nome;
         this.preco = preco;

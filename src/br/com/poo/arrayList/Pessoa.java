@@ -1,3 +1,5 @@
+package br.com.poo.arrayList;
+
 public class Pessoa {
    String nome;
    int idade;

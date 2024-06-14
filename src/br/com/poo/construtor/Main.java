@@ -17,6 +17,11 @@ public class Main {
 
         System.out.println(listaDeProdutos.toString());
 
+        ProdutoPerecivel produtoPerecivel = new ProdutoPerecivel("Mesa",20.5,2,"20/05/2030");
+
+
+
+
 
 
     }

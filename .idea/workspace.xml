@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e14225b-7eef-4c04-98bc-cf7827aa0d6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/poo/CastingOrInstanceOf/Fruta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/poo/CastingOrInstanceOf/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/poo/CastingOrInstanceOf/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/poo/CastingOrInstanceOf/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/poo/CastingOrInstanceOf/PrincipalBichos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,19 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pessoa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.br.com.poo.construtor.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ASUS/Downloads/ExercicioNaoObrigatorioColections/src/Main.java&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Pessoa.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.br.com.poo.construtor.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/ASUS/Downloads/ExercicioNaoObrigatorioColections/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Principal">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.poo.arrayList.Main" />

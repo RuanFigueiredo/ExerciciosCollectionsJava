@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e14225b-7eef-4c04-98bc-cf7827aa0d6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/poo/CastingOrInstanceOf/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/poo/CastingOrInstanceOf/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/poo/CastingOrInstanceOf/PrincipalBichos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/poo/CastingOrInstanceOf/PrincipalBichos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/poo/CastingOrInstanceOf/PrincipalBichos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
     "Application.Main.executor": "Run",
     "Application.Pessoa.executor": "Run",
     "Application.Principal.executor": "Run",
+    "Application.PrincipalBichos.executor": "Run",
     "Application.br.com.poo.construtor.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -48,7 +47,7 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="Application.PrincipalBichos">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.poo.arrayList.Main" />
       <module name="ExerciciosCollectionsJavaOneOracle" />
@@ -76,6 +75,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrincipalBichos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.poo.CastingOrInstanceOf.PrincipalBichos" />
+      <module name="ExerciciosCollectionsJavaOneOracle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.poo.CastingOrInstanceOf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="br.com.poo.construtor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.poo.construtor.Main" />
       <module name="ExerciciosCollectionsJavaOneOracle" />
@@ -91,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrincipalBichos" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.br.com.poo.construtor.Main" />
         <item itemvalue="Application.Main" />
